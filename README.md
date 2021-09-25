@@ -7,3 +7,5 @@ Iterator is an object, which is used to iterate over an iterable object using __
 ## *I have explained the concept of Iterables and Iterators which is divided into multiple parts*
 
 ###  *Part -1 -> Iterating Collections*
+
+###  *Part -2 -> Iterators*
