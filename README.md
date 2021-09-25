@@ -9,3 +9,5 @@ Iterator is an object, which is used to iterate over an iterable object using __
 ###  *Part -1 -> Iterating Collections*
 
 ###  *Part -2 -> Iterators*
+
+###  *Part -3 -> Iterators and Iterables*
